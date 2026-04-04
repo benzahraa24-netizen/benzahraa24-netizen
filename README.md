@@ -97,9 +97,9 @@ Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware E
 ---
 
 ## 📬 Contact
--✉️ Email: benzahraa24@gmail.com
--💼 LinkedIn: www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222
--🌐 GitHub: https://github.com/benzahraa24-netizen
+- ✉️ Email: **benzahraa24@gmail.com**
+- 💼 LinkedIn: **www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222**
+- 🌐 GitHub: **https://github.com/benzahraa24-netizen**
 
 <!-- Optional: visitor badge -->
 <p align="left">
