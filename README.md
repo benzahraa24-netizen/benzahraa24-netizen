@@ -17,7 +17,7 @@
 ---
 
 ## 👤 About Me
-I’m a **Data Scientist & Engineer** who enjoys tackling technical challenges and building useful AI products.  
+I’m a **Data Scientist & Engineer** who enjoys tackling technical challenges and building useful AI products.  Je suis un **Data Scientist & Engineer** qui aime relever des défis techniques et construire des produits d’IA utiles.  
 Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware Engineering. Open to **work** (on-site or remote).
 
 - 📍 Temara–Rabat, Morocco
@@ -91,7 +91,7 @@ Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware E
 ## 📈 GitHub Stats
 <p align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=benzahraa24-netizen&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=benzahraa24-netizen" />
+ 
 </p>
 
 ---
@@ -103,7 +103,7 @@ Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware E
 
 <!-- Optional: visitor badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AbdelkebirBenzaitoune&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=AbdelkebirBenzaitoune&label=Profile%20views&color=0e75b6&style=flat" alt="views" />  
 </p>
 
 <!--
