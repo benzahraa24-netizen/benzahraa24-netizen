@@ -90,14 +90,14 @@ Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware E
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=benzahraa24-netizen&show_icons=true&hide_title=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=benzahraa24-netizen" />
  
 </p>
 
 ---
 
 ## 📬 Contact
-- ✉️ Email: **benzahraa24@gmail.com**
+- ✉️ Email: **benzahraa24@gmail.com**- ✉️ Email : **benzahraa24@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222**
 - 🌐 GitHub: **https://github.com/benzahraa24-netizen**
 
