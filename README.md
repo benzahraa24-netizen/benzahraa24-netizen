@@ -2,7 +2,7 @@
 <!-- Centered hero header -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdel+kebir+Benzaitoune" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ben-zahra+Mohamed+Amine" alt="Typing SVG" />
 </div>
 <h1 align="center"> 👋🏻 Mohamed amine Ben-zahra</h1>
 
