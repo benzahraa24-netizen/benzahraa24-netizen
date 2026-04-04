@@ -6,7 +6,7 @@
 </div>
 <h1 align="center"> 👋🏻 Mohamed amine Ben-zahra</h1>
 
-<h3 align="center"> <b>Freelance and research Data Scientist • Rabat, Morocco</b></h3>
+<h3 align="center"> <b>Freelance and research in Data Scientist • Rabat, Morocco</b></h3>
 
 <p align="center">
   <a href="mailto: benzahraa24@gmail.com"><img src="https://img.shields.io/badge/Email-benzahraa24%40gmail.com-blue?logo=gmail" /></a>
