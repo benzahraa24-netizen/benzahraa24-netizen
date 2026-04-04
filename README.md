@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto: benzahraa24@gmail.com"><img src="https://img.shields.io/badge/Email-beabdo14%40gmail.com-blue?logo=gmail" /></a>
-  <a href="www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222/"><img src="https://img.shields.io/badge/LinkedIn-Ben-zahra%20Mohamed%20Amine-0A66C2?logo=linkedin" /></a>
+ <a href="https://linkedin.com/in/abdel-kebir-benzaitoune/"><img src="https://img.shields.io/badge/LinkedIn-Abdel%20Kebir%20Benzaitoune-0A66C2?logo=linkedin" /></a>
   <a href="https://github.com/benzahraa24-netizen"><img src="https://img.shields.io/badge/GitHub-AbdelkebirBenzaitoune-181717?logo=github" /></a>
 </p>
 
