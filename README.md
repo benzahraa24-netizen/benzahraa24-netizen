@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m a Data Scientist & Engineering who enjoys tackling technical challenges and building useful AI products.<br>Strong interests in ML/DL, NLP/RAG, and data-driven apps. Open to internships (on-site or remote).<br><br>📍 Temara–Rabat, Morocco<br>🤝 Team player • analytical • rigorous<br>🎯 Looking to contribute to innovative DS/ML projects</p>
+<p align="left">I’m a Data Scientist & Engineering who enjoys tackling technical challenges and building useful AI products.<br>Strong interests in ML/DL, NLP/RAG, and data-driven apps. Open to work (on-site or remote).<br><br>📍 Temara–Rabat, Morocco<br>🤝 Team player • analytical • rigorous<br>🎯 Looking to contribute to innovative DS/ML projects</p>
 
 ###
 
