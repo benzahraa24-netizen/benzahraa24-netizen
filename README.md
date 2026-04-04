@@ -9,7 +9,7 @@
 <h3 align="center"> <b>Freelance and research Data Scientist • Rabat, Morocco</b> • Rabat, Morocco</h3>
 
 <p align="center">
-  <a href="mailto: benzahraa24@gmail.com"><img src="https://img.shields.io/badge/Email-beabdo14%40gmail.com-blue?logo=gmail" /></a>
+  <a href="mailto: benzahraa24@gmail.com"><img src="https://img.shields.io/badge/Email-benzahraa24%40gmail.com-blue?logo=gmail" /></a>
  <a href="https://www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222"><img src="https://img.shields.io/badge/LinkedIn-Abdel%20Kebir%20Benzaitoune-0A66C2?logo=linkedin" /></a>
   <a href="https://github.com/benzahraa24-netizen"><img src="https://img.shields.io/badge/GitHub-AbdelkebirBenzaitoune-181717?logo=github" /></a>
 </p>
