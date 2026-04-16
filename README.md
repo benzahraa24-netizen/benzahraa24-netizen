@@ -17,8 +17,14 @@
 ---
 
 ## 👤 About Me
-I’m a **Data Scientist & Engineer** who enjoys tackling technical challenges and building useful AI products.  Je suis un **Data Scientist & Engineer** qui aime relever des défis techniques et construire des produits d’IA utiles.  
-Strong interests in **ML/DL**, **NLP/RAG**, **data-driven apps**, and Sofyware Engineering. Open to **work** (on-site or remote).
+I’m a **Data Scientist & Engineer** who enjoys tackling technical challenges and building useful AI products.  
+
+My enthusiasm lies in bridging the gap between complex data and practical applications that positively impact people's lives. As Data Scientist with a deep passion for Al and innovation. I blend a strong technical background ir Computer Science with the analytical drive to solve complex business problems. 
+
+I am currently looking for opportunities where I can contribute to impactful proiects. I brina self-discipline, a collaborative mindset, and a dedication to continuous learning-key assets for driving success in distributed teams
+
+I operate at the intersection of data engineering, machine earning, and Al - designing pipelines, building predictive nodels, and shipping GenAl solutions that solve real business problems
+Nhether it's orchestrating data workflows, fine-tuning LLMs or deploying end-to-end ML systems, I care about one things making data useful you are seeking a dedicated Analytics & Al engineer passionate about leveraging data's power, let's connect anc explore how we can make a difference together!
 
 - 📍 Temara–Rabat, Morocco
 - 🤝 Team player • analytical • rigorous
