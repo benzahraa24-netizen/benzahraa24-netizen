@@ -103,7 +103,7 @@ Nhether it's orchestrating data workflows, fine-tuning LLMs or deploying end-to-
 ---
 
 ## 📬 Contact
-- ✉️ Email: **benzahraa24@gmail.com**- ✉️ Email : **benzahraa24@gmail.com**
+- ✉️ Email: **benzahraa24@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/mohamed-amine-ben-zahra-40610b222**
 - 🌐 GitHub: **https://github.com/benzahraa24-netizen**
 
